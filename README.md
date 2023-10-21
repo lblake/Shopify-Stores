@@ -1,1 +1,1 @@
-# Shopify-Stores
+# Shopify-Store
