@@ -1,5 +1,5 @@
 <p align="center">
-<b> From Design to Shopify Store<b/>
+<b> From Figma to Shopify Store<b/>
 <p/>
 
 ![image](./images/figma-design.png)<br/><br/>
